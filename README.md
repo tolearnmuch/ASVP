@@ -77,8 +77,6 @@ bash data/kth2tfrecords.sh
 
 else, please skip this step and turn to Part 3 for separating active patterns along with non-active ones from videos.
 
->Notes: for the memory limitations of our drive, data of BAIR action-free is not uploaded during this turn of anomynous submission.
-
 ## 3. Active pattern mining
 
 Active pattern mining is necessary only for training and there is no need to do this if only with respective to inference with released model.
