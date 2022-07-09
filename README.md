@@ -1,4 +1,4 @@
-# ASVP
+# Active Patterns Perceived for Stochastic Video Prediction (ASVP) 
 
 This is the implementation of 'Active Patterns Perceived for Stochastic Video Prediction' in ACM MM 2022.
 
