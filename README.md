@@ -103,7 +103,7 @@ and the pre-trained models for baseline should be placed as:
 
 >——./pretrained/pretrained_models/kth/savp
 >
->——./pretrained/pretrained_models/bair_action_free/savp
+>——./pretrained/pretrained_models/bair_action_free/asvp
 
 ### 4.1. Inference on KTH human action
 
